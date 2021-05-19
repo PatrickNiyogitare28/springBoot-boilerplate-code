@@ -1,2 +1,2 @@
 # springBoot-boilerplate-code
-spring boot code boiler plate
+The codes serves to implement commonly used proctices and codes for REST APIs development with Spring boot
