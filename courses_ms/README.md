@@ -14,7 +14,7 @@ The codes serves to implement a basic course management system with spring boot
   > We are using `mavin` for building and package management
 
 - Tomcat
- > Tomcat is used as our server `tomcat 9`
+  > Tomcat is used as our spring boot application server `tomcat 9`
 ## Structure
 
 - repositories
