@@ -10,6 +10,8 @@ The codes serves to implement a basic course management system with spring boot
 - Mysql JDBC driver
   > Via JDBC you create a connection to the database, issue database queries and update as well as receive the results. JDBC provides an interface which allows you to perform SQL operations independently of the instance of the used database. To use JDBC, you require the database specific implementation of the JDBC driver.
 
+- Mavin
+  > We are using `mavin` for building and package management
 ## Structure
 
 - repositories
